@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+
+  php:
+    build: './'
+    restart: always
+    container_name: php7.4-ozon
+    volumes:
+      - ./:/var/www/html
