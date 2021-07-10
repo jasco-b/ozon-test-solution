@@ -1,6 +1,6 @@
-#Ozon test solution
+# Ozon test solution
 
-##Solution is in solution.php file and consists of solutions method.
+## Solution is in solution.php file and consists of solutions method.
 ```php
     function sollution(string $text, $space = '_'): string {}
 ```
